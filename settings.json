@@ -1,0 +1,12 @@
+{
+  "files.autoSave": "onFocusChange",
+  "go.formatOnSave": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.trimAutoWhitespace": true,
+  "editor.tabSize": 2,
+  "files.insertFinalNewline": true,
+  "editor.rulers": [
+    80,
+    120
+  ]
+}
