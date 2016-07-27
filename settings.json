@@ -8,5 +8,6 @@
   "editor.rulers": [
     80,
     120
-  ]
+  ],
+  "editor.renderIndentGuides": true
 }
